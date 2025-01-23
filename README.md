@@ -1,10 +1,31 @@
--👋 Hi, I’m @02-Akshat
--👀 I’m interested in Web Development, Android Development, Gaming, and Music
--🌱 I’m currently learning Android and MERN stack
--💞️ I’m looking to collaborate on Web Development projects
--📫 How to reach me: akshatsharmapc@gmail.com
--😄 Pronouns: he/him
--⚡ Fun fact: I love playing the flute and playing new games
+# 👋 Hi, I’m @02-Akshat
+
+### 👀 Interests
+- Web Development
+- Android Development
+- Gaming
+- Music
+
+### 🌱 Currently Learning
+- Android
+- MERN Stack
+
+### 💞️ Looking to Collaborate On
+- Web Development projects
+
+### 📫 How to Reach Me
+- Email: [akshatsharmapc@gmail.com](mailto:akshatsharmapc@gmail.com)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+- I love playing the flute and playing new games
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=02-Akshat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02-Akshat&layout=compact&theme=radical)
 
 <!---
 02-Akshat/02-Akshat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
